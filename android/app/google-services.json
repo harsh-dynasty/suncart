@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922536411885",
+    "project_id": "ecom-react-native",
+    "storage_bucket": "ecom-react-native.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922536411885:android:47bdffba3b96636281c2e4",
+        "android_client_info": {
+          "package_name": "com.ecom.ecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922536411885-l5cc830sb4vnnrgkia4r6aotgmgobf5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzwzjsQvQzwqymK9xC4WXlFL64l4B-wpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922536411885-l5cc830sb4vnnrgkia4r6aotgmgobf5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
